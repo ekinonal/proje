@@ -1,30 +1,19 @@
-[
-	{
-		color: "red",
-		value: "#f00"
-	},
-	{
-		color: "green",
-		value: "#0f0"
-	},
-	{
-		color: "blue",
-		value: "#00f"
-	},
-	{
-		color: "cyan",
-		value: "#0ff"
-	},
-	{
-		color: "magenta",
-		value: "#f0f"
-	},
-	{
-		color: "yellow",
-		value: "#ff0"
-	},
-	{
-		color: "black",
-		value: "#000"
-	}
-]
+
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
