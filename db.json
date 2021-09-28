@@ -1,30 +1,42 @@
 {
   "data": [
-    [
-      "Cara Stevens",
-      "Sales Assistant",
-      "New York",
-      "3990",
-      "2011/12/06",
-      "$145,600"
-    ],
+    {
+      "id":"1",
+      "name":"Cara Stevens",
+      "username":"carastevens",
+      "email":"carastevens@oldl.com",
+      "address": {
+        "street":"Elm Street",
+        "suite":"Apt.5551",
+        "city":"Edinburgh"
+       }
     
-        [
-      "Ekin Önal",
-      "Front-end Developer",
-      "Turkiye",
-      "3990",
-      "2011/12/06",
-      "$145,600"
-    ],
-         [
-      "Efe Önal",
-      "Back-end Developer",
-      "Turkiye",
-      "3991",
-      "2011/12/02",
-      "$142,600"
-    ]
+    },
+    
+   {
+      "id":"2",
+      "name":"Adam Smith",
+      "username":"adamsmith",
+      "email":"adamsmith@oldl.com",
+      "address": {
+        "street":"Back Street",
+        "suite":"Apt.53251",
+        "city":"London"
+       }
+    
+    },
+   {
+      "id":"3",
+      "name":"Eddy Colon",
+      "username":"eddycolon",
+      "email":"eddycolon@oldl.com",
+      "address": {
+        "street":"Front Street",
+        "suite":"Apt.53251",
+        "city":"Manchester"
+       }
+    
+    }
  
   
   ]
